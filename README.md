@@ -1,6 +1,6 @@
 # TheoristGPT
 
-- Can we have an AI to be a physics theorist?
+- Can we have an AI to be a theoretical physicist?
 - What insights can AI gain from physics?
 - How can physics unlock the mysteries of AI?
 
